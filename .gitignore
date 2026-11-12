@@ -1,0 +1,4 @@
+# Artifact-only build output (regenerate with src/build.py)
+dist/artifact.html
+__pycache__/
+*.pyc
